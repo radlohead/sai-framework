@@ -1,0 +1,29 @@
+{
+    "name": "sai-framework",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "serve": "webpack-dev-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/radlohead/sai-framework.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/radlohead/sai-framework/issues"
+    },
+    "homepage": "https://github.com/radlohead/sai-framework#readme",
+    "devDependencies": {
+        "html-webpack-plugin": "^3.2.0",
+        "webpack": "^4.11.1",
+        "webpack-cli": "^3.0.3",
+        "webpack-dev-server": "^3.1.4"
+    },
+    "dependencies": {
+        "snabbdom": "^0.7.1"
+    }
+}
